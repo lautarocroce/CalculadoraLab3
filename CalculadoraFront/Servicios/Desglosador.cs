@@ -11,6 +11,7 @@ namespace CalculadoraFront.Servicios
     {
         public String[] Desglosar(String ecuacion)
         {
+            //variables
             Operador operador = new Operador();
             int conteo = ecuacion.Count(c => c == '(');
             String ecuacionAux;
