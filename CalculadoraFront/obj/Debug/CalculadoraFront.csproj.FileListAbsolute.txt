@@ -1,0 +1,10 @@
+E:\Dokumentoj\UTN\Tercer Semestre\Laboratoria3\SegundoParcial\CalculadoraFront\CalculadoraFront\CalculadoraFront\bin\Debug\CalculadoraFront.exe.config
+E:\Dokumentoj\UTN\Tercer Semestre\Laboratoria3\SegundoParcial\CalculadoraFront\CalculadoraFront\CalculadoraFront\bin\Debug\CalculadoraFront.exe
+E:\Dokumentoj\UTN\Tercer Semestre\Laboratoria3\SegundoParcial\CalculadoraFront\CalculadoraFront\CalculadoraFront\bin\Debug\CalculadoraFront.pdb
+E:\Dokumentoj\UTN\Tercer Semestre\Laboratoria3\SegundoParcial\CalculadoraFront\CalculadoraFront\CalculadoraFront\obj\Debug\CalculadoraFront.csproj.AssemblyReference.cache
+E:\Dokumentoj\UTN\Tercer Semestre\Laboratoria3\SegundoParcial\CalculadoraFront\CalculadoraFront\CalculadoraFront\obj\Debug\CalculadoraFront.Form1.resources
+E:\Dokumentoj\UTN\Tercer Semestre\Laboratoria3\SegundoParcial\CalculadoraFront\CalculadoraFront\CalculadoraFront\obj\Debug\CalculadoraFront.Properties.Resources.resources
+E:\Dokumentoj\UTN\Tercer Semestre\Laboratoria3\SegundoParcial\CalculadoraFront\CalculadoraFront\CalculadoraFront\obj\Debug\CalculadoraFront.csproj.GenerateResource.cache
+E:\Dokumentoj\UTN\Tercer Semestre\Laboratoria3\SegundoParcial\CalculadoraFront\CalculadoraFront\CalculadoraFront\obj\Debug\CalculadoraFront.csproj.CoreCompileInputs.cache
+E:\Dokumentoj\UTN\Tercer Semestre\Laboratoria3\SegundoParcial\CalculadoraFront\CalculadoraFront\CalculadoraFront\obj\Debug\CalculadoraFront.exe
+E:\Dokumentoj\UTN\Tercer Semestre\Laboratoria3\SegundoParcial\CalculadoraFront\CalculadoraFront\CalculadoraFront\obj\Debug\CalculadoraFront.pdb
